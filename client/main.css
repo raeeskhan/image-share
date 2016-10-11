@@ -1,0 +1,18 @@
+/* CSS declarations go here */
+.thumbnail {
+  height:500px;
+  }
+
+.thumbnail-img {
+
+  max-height: 300px;
+}
+
+body {
+padding-top: 30px;
+
+}
+.single-img {
+  max-width:70%;
+  max-height:70%
+}
